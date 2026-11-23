@@ -3,7 +3,7 @@ Traffic object detection in UAV aerial images is challenging because target scal
 
 come soon meaning
 
-数据集：
-Visdrone：https://visdrone.org/visdrone
-UAVDT：D. Du et al., “The unmanned aerial vehicle benchmark: Object detection and tracking,” in Computer Vision–ECCV 2018, 2018, pp. 375–
+Visdrone数据集：https://visdrone.org/visdrone
+
+UAVDT数据集：D. Du et al., “The unmanned aerial vehicle benchmark: Object detection and tracking,” in Computer Vision–ECCV 2018, 2018, pp. 375–
 391, doi: 10.1007/978-3-030-01249-6_23.
